@@ -1,7 +1,7 @@
-<h1> Hi, There. I' Am Rani 🥰</h1>
-&#160;
 
+<h1> Hi, There. I' Am Rani 🥰</h1>
 <img align="right" alt="Rani-gif" height="150" top="100px" style="border-radius:50px;" src="https://i.picasion.com/pic92/56d77a49b2a246dc1e487809dc11a3b7.gif">
+&#160;
 
 🔎EM BUSCA DA PRIMEIRA OPORTUNIDADE EM DESENVOLVIMENTO WEB
 &#160;&#160;
