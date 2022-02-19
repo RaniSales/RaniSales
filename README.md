@@ -5,16 +5,12 @@
 &#160;&#160;
 
 💻 Atualmente sou estudante de Desenvolvimento Full Stack na Labenu <br>
-&#160;
 📚 Estou no 5/6 período de Análise e desenvolvimento de sistemas, (Uniasselvi - Centro Universitário Leonardo Da Vinci)<br>
-&#160;
 🍵 Amo café, filmes, animes, comer, e a natureza<br>
-&#160;
 ✈ Ainda quero conhecer o maior número de países possíveis<br>
-&#160;
 📌 Idiomas: Inglês(nível atual: básico A-2) , espanhol(nível atual: intermédiario:b-1), francês(nível atual: básico A-1)
 
-&#160;&#160;
+&#160;&#160;&#160;
 
 <div align="center">
 <div align="center">
