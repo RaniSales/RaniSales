@@ -1,10 +1,10 @@
 <h1> Hi, There. I' Am Rani 🥰</h1>
 &#160;
 
+<img align="right" alt="Rani-gif" height="150" top="100px" style="border-radius:50px;" src="https://i.picasion.com/pic92/56d77a49b2a246dc1e487809dc11a3b7.gif">
+
 🔎EM BUSCA DA PRIMEIRA OPORTUNIDADE EM DESENVOLVIMENTO WEB
 &#160;&#160;
-
-<img align="right" alt="Rafa-pic" height="200" style="border-radius:50px;" src="https://i.picasion.com/pic92/56d77a49b2a246dc1e487809dc11a3b7.gif">
 
 💻 Atualmente sou estudante de Desenvolvimento Full Stack na Labenu <br>
 📚 Estou no 5/6 período de Análise e desenvolvimento de sistemas, (Uniasselvi - Centro Universitário Leonardo Da Vinci)<br>
