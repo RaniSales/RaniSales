@@ -4,6 +4,8 @@
 🔎EM BUSCA DA PRIMEIRA OPORTUNIDADE EM DESENVOLVIMENTO WEB
 &#160;&#160;
 
+<img align="right" alt="Rafa-pic" height="200" style="border-radius:50px;" src="https://i.picasion.com/pic92/56d77a49b2a246dc1e487809dc11a3b7.gif">
+
 💻 Atualmente sou estudante de Desenvolvimento Full Stack na Labenu <br>
 📚 Estou no 5/6 período de Análise e desenvolvimento de sistemas, (Uniasselvi - Centro Universitário Leonardo Da Vinci)<br>
 🍵 Amo café, filmes, animes, comer, e a natureza<br>
@@ -14,7 +16,6 @@
 
 <div align="center">
 <div align="center">
-  
   <a href="https://github.com/ranisales">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=ranisales&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ranisales&layout=compact&langs_count=7&theme=dracula"/>
@@ -29,6 +30,7 @@
   <img align="center" alt="Rani-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Rani-node" height="30" width="40" src="https://icongr.am/devicon/nodejs-original.svg?size=128&color=currentColor">
   <img align="center" alt="Rani-Git" height="30" width="40" src="https://icongr.am/devicon/git-original.svg?size=128&color=currentColor">
+  
 </div>
 </div>
 </div>
