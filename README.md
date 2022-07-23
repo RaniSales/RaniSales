@@ -7,7 +7,8 @@
 &#160;&#160;
 
 💻 Atualmente sou estudante de Desenvolvimento Full Stack na Labenu <br>
-🚀 Participei de um projeto real voluntário em desenvolvimento Front end<br>
+🚀 Trabalho com desenvolvimento Front end - meio período<br>
+🚀 Trabalho com desenvolvimento de software trainee - tempo integral<br>
 📚 Estou no 6/6 período de Análise e desenvolvimento de sistemas, (Uniasselvi - Centro Universitário Leonardo Da Vinci)<br>
 🍵 Amo café, filmes, animes, comer, dançar, teclado, violão, tudo relacionado ao espaço,e a natureza<br>
 ✈ Ainda quero conhecer o maior número de países possíveis<br>
