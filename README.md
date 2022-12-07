@@ -3,16 +3,13 @@
 <img align="right" alt="Rani-gif" height="150" top="100px" style="border-radius:50px;" src="https://i.picasion.com/pic92/56d77a49b2a246dc1e487809dc11a3b7.gif">
 &#160;
 
-<h2>Desenvolvedora De Software - Trainee</h2>
+<h2>Sou Desenvolvedora</h2>
 &#160;&#160;
 
-💻 Atualmente sou estudante de Desenvolvimento Full Stack na Labenu <br>
-🚀 Trabalho com desenvolvimento Front end - meio período<br>
-🚀 Trabalho com desenvolvimento de software trainee - tempo integral<br>
-📚 Estou no 6/6 período de Análise e desenvolvimento de sistemas, (Uniasselvi - Centro Universitário Leonardo Da Vinci)<br>
-🍵 Amo café, filmes, animes, comer, dançar, teclado, violão, tudo relacionado ao espaço,e a natureza<br>
-✈ Ainda quero conhecer o maior número de países possíveis<br>
-📌 Idiomas: Inglês(nível atual: básico A-2) , espanhol(nível atual: intermédiario:b-1), francês(nível atual: básico A-1)
+🚀 Trabalho com desenvolvimento Front end; <br>
+💻 Atualmente sou formada em Desenvolvimento Full Stack pela Labenu;<br>
+📚 sou formada em Análise e desenvolvimento de sistemas, (Uniasselvi - Centro Universitário Leonardo Da Vinci);<br>
+📌 Idiomas: Inglês(nível atual: básico A-2) , espanhol(nível atual: intermédiario:b-1)
 
 &#160;&#160;&#160;
 
