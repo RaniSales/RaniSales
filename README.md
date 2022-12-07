@@ -9,7 +9,7 @@
 🚀 Trabalho com desenvolvimento Front end; <br>
 💻 Atualmente sou formada em Desenvolvimento Full Stack pela Labenu;<br>
 📚 sou formada em Análise e desenvolvimento de sistemas, (Uniasselvi - Centro Universitário Leonardo Da Vinci);<br>
-📌 Idiomas: Inglês(nível atual: básico A-2) , espanhol(nível atual: intermédiario:b-1)
+📌 Idiomas: Inglês(nível atual: básico A-2) , espanhol(nível atual: intermediário:b-1)
 
 &#160;&#160;&#160;
 
