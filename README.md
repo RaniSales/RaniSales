@@ -6,7 +6,7 @@
 <h2>Sou Desenvolvedora</h2>
 &#160;&#160;
 
-🚀 Trabalho com desenvolvimento Front end; <br>
+🚀 Trabalho como Analista de Soluções na Capgemini; <br>
 💻 Atualmente sou formada em Desenvolvimento Full Stack pela Labenu;<br>
 📚 sou formada em Análise e desenvolvimento de sistemas, (Uniasselvi - Centro Universitário Leonardo Da Vinci);<br>
 📌 Idiomas: Inglês(nível atual: básico A-2) , espanhol(nível atual: intermediário:b-1)
@@ -37,7 +37,7 @@
   ##
  
 <div> 
-  <a href="https://www.instagram.com/ranicristine" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://www.instagram.com/ranisales.dev" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/rani-cristina" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 
