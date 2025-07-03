@@ -7,8 +7,8 @@
 &#160;&#160;
 
 🚀 Trabalho como Consultor de Soluções I na Capgemini; <br>
+📚 Sou formada em Análise e desenvolvimento de sistemas, (Uniasselvi - Centro Universitário Leonardo Da Vinci);<br>
 💻 Atualmente sou formada em Desenvolvimento Full Stack pela Labenu;<br>
-📚 sou formada em Análise e desenvolvimento de sistemas, (Uniasselvi - Centro Universitário Leonardo Da Vinci);<br>
 📌 Idiomas: Inglês(nível atual: básico A-2) , espanhol(nível atual: intermediário:b-1)
 
 &#160;&#160;&#160;
