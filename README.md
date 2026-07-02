@@ -6,7 +6,7 @@
 <h2>Sou Desenvolvedora</h2>
 &#160;&#160;
 
-🚀 Trabalho como Consultor de Soluções I na Capgemini; <br>
+🚀 Trabalho como Consultor de Soluções II na Capgemini; <br>
 💻 Atualmente sou formada em Desenvolvimento Full Stack pela Labenu;<br>
 📚 sou formada em Análise e desenvolvimento de sistemas, (Uniasselvi - Centro Universitário Leonardo Da Vinci);<br>
 📌 Idiomas: Inglês(nível atual: básico A-2) , espanhol(nível atual: intermediário:b-1)
